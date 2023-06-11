@@ -1,10 +1,10 @@
 # OpenGov Governance System
 
-OpenGov is a decentralized governance system built for Distributed Web-based applications that focuses on giving the community the power to control and manage applications and their related on-chain treasuries. OpenGov aims to provide an alternative to OpenZeppelin's governance contracts and is compatible with various treasury management platforms such as Gnosis Safe, Aragon, DAOstack, and Moloch DAO, so that decentralized apps can themselves become democracies.
+OpenGov is a decentralized governance system built for Distributed Web-based applications that focuses on giving the community the power to control and manage applications and their related on-chain treasuries. OpenGov aims to provide an alternative to OpenZeppelin's governance contracts and is compatible with various treasury management platforms such as Gnosis Safe, DAOstack, and Moloch DAO, so that decentralized apps can themselves become democracies.
 
 ## Features
 
-- On-chain treasury management through integration with Gnosis Safe, Aragon, DAOstack, and Moloch DAO.
+- On-chain treasury management through integration with Gnosis Safe, DAOstack, and Moloch DAO.
 - Community-driven governance with a focus on fair decision-making and support for minority voices.
 - DAO token for membership and voting.
 - Proposal submission, voting, and execution.
