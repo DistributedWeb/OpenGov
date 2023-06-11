@@ -1,0 +1,27 @@
+# IDE files
+.idea/
+
+# Build artifacts
+build/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node dependencies
+node_modules/
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# Secrets
+secrets.json
