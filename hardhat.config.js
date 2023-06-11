@@ -1,5 +1,6 @@
 require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-etherscan");
+require("@ethereum-waffle/compile");
 
 const { privateKey, projectId, apiKey } = require('./secrets.json');
 

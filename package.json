@@ -1,6 +1,6 @@
 {
     "name": "@distributedweb/opengov",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "description": "OpenGov is a decentralized governance system for decentralized apps on the Distributed Web (dWeb).",
     "main": "index.js",
     "scripts": {
