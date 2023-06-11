@@ -2,13 +2,13 @@
 
 pragma solidity ^0.8.0;
 
-import "./Interfaces/IERC20.sol";
-import "./Interfaces/Treasury/IGnosisSafe.sol";
-import "./Interfaces/Treasury/IDAOstack.sol";
-import "./Interfaces/Treasury/IMoloch.sol";
-import "./Adapters/GnosisSafeAdapter.sol";
-import "./Adapters/DAOstackAdapter.sol";
-import "./Adapters/MolochAdapter.sol";
+import "../Interfaces/IERC20.sol";
+import "../Interfaces/Treasury/IGnosisSafe.sol";
+import "../Interfaces/Treasury/IDAOstack.sol";
+import "../Interfaces/Treasury/IMoloch.sol";
+import "../Adapters/GnosisSafeAdapter.sol";
+import "../Adapters/DAOstackAdapter.sol";
+import "../Adapters/MolochAdapter.sol";
 
 contract Governor {
     IERC20 public daoToken;

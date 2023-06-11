@@ -49,7 +49,7 @@ To integrate OpenGov into your project, you'll need to import the necessary cont
 
 1. Import the necessary governance contracts and adapter contracts into your project.
 2. Deploy the DAO_token as well as the Governor and TimelockController contracts.
-3. Deploy the respective adapter contracts (GnosisSafeAdapter, AragonAdapter, DAOstackAdapter, MolochAdapter) for the treasury management platforms you want to support.
+3. Deploy the respective adapter contracts (GnosisSafeAdapter, DAOstackAdapter, MolochAdapter) for the treasury management platforms you want to support.
 4. Configure the Governor contract to interact with the deployed adapter contracts for each platform.
 5. Users can now mint/buy the DAO_token and participate in governance by submitting proposals and voting on them.
 6. Proposals can also interact with the treasury platforms via the adapter contracts, allowing for the management of the on-chain treasury.
