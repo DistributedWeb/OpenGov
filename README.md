@@ -18,7 +18,6 @@ OpenGov is a decentralized governance system built for Distributed Web-based app
 - `/contracts/Interfaces/IERC20.sol`: Interface for the basic ERC-20 token.
 - `/contracts/Interfaces/IComp.sol`: Interface for the COMP token from Compound finance.
 - `/contracts/Interfaces/Treasury/IGnosisSafe.sol`: Interface for interacting with Gnosis Safe.
-- `/contracts/Interfaces/Treasury/IAragon.sol`: Interface for interacting with Aragon.
 - `/contracts/Interfaces/Treasury/IDAOstack.sol`: Interface for interacting with DAOstack.
 - `/contracts/Interfaces/Treasury/IMoloch.sol`: Interface for interacting with Moloch DAO.
 
@@ -37,7 +36,6 @@ OpenGov is a decentralized governance system built for Distributed Web-based app
 ### Adapters
 
 - `/contracts/Adapters/GnosisSafeAdapter.sol`: Contract for integrating OpenGov with Gnosis Safe.
-- `/contracts/Adapters/AragonAdapter.sol`: Contract for integrating OpenGov with Aragon.
 - `/contracts/Adapters/DAOstackAdapter.sol`: Contract for integrating OpenGov with DAOstack.
 - `/contracts/Adapters/MolochAdapter.sol`: Contract for integrating OpenGov with Moloch DAO.
 
